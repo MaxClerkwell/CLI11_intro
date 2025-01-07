@@ -1,0 +1,28 @@
+# Allgemeine CMake-Dateien
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Build-Ordner
+/build/
+
+# Ausführbare Dateien
+*.exe
+*.out
+*.app
+
+# Temporäre Dateien
+*.tmp
+*.log
+*.bak
+
+# Editor-spezifische Dateien
+.vscode/
+.idea/
+*.swp
+*~
+
+# Betriebssystem-spezifische Dateien
+.DS_Store
+Thumbs.db
